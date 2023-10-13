@@ -1,4 +1,4 @@
-# 💫 About Me: Hi im Ricardo Fernández
+# 👽 About Me: Hi im Ricardo Fernández
 🔭 I'm currently working on a calendar app + backend working with (MERN)<br><br>🌱 I’m currently learning Amazon Web Services, Angular and Nestjs<br><br>👨‍💻 my last individual project was a [NodeJs REST server] using the following NPM packages (bcryptjs, cors, dotenv, express, express-fileupload, express-validator, google-auth-library, jsonwebtoken, mongoose and uuid)<br><br>💬 Ask me about react.js, node.js, express.js, sql, javascript<br><br>📫 How to reach me ricardofp.3105@gmail.com<br><br>📄 Know about my experiences https://github.com/RicardoFP0531<br><br>⚡Fun fact: I like to be part of development teams to achieve objectives, continue learning from my teammates and become a very efficient full stack developer
 
 
